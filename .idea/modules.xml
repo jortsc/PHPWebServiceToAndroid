@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebSrvStatus/WebSrvStatus.iml" filepath="$PROJECT_DIR$/WebSrvStatus/WebSrvStatus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebSrvStatusProject.iml" filepath="$PROJECT_DIR$/WebSrvStatusProject.iml" />
+    </modules>
+  </component>
+</project>
+
